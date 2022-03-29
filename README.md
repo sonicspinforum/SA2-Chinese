@@ -18,27 +18,9 @@ Chinese Translation Mod for Sonic Adventure 2, under development.
    + event: 游戏事件消息 (即过场动画字幕)
 
 #### 如何提交
-请自行上网搜索如何使用 git, 这里简单说一下过程
+请自行上网搜索如何使用 git
 
-* 在电脑上安装 Git 或 GitHub Desktop, git clone 本仓库
-* 首次配置
-   + git config --global user.email "你的Gitee邮箱"
-   + git config --global user.name "你的Gitee用户名"
-   + ssh-keygen -t rsa -C "你的Gitee邮箱"
-   + (要求你输入的直接回车保持默认即可)
-   + 打开你的用户文件夹/.ssh/id_rsa.pub 复制文件内容到 https://gitee.com/profile/sshkeys 点击"确定"
-   + ssh -T git@gitee.com
-   + 验证SSH公钥是否配置成功 (需要回应的时候输入yes)
-   + cd sa2-chinese
-   + git remote rm origin
-   + git remote add origin git@gitee.com:sonicfansub/sa2-chinese.git
-* 当做出更改时
-   + 运行 git add .
-   + (可选) 运行 git status 查询当前更新状态, git diff --cached 对比
-   + git commit -m "注释内容"
-   + git push 推送更新
-* 更新本地仓库 (当Gitee仓库比本地仓库更新/其他人作出更改时)
-   + git fetch
+本仓库已迁移至 GitHub, 建议直接使用 GitHub Desktop
 
 #### 关于版本号
 普通玩家请进入 Releases 发行版下载正式版而非直接 Clone/下载 本仓库的 master 分支
