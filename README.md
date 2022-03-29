@@ -5,6 +5,10 @@
 
 Chinese Translation Mod for Sonic Adventure 2, under development.
 
+#### 警告
+
+请勿直接下载 master 分支的 ZIP 打包, 由于 .sfd 等媒体文件超过 GitHub 100MB 的单文件大小限制, 请前往 Release 页面下载最新版 SA2-Chinese.7z ！
+
 #### 说明
 * mod.ini: Mod 配置文件, 包含了该 Mod 的属性
 * LICENSE: 开源许可证

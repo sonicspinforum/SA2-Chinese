@@ -1,0 +1,7 @@
+evmesD 黑暗线
+evmesH 英雄线
+evmesL 最终线
+
+使用SA2CutsceneTextEditor打开
+可按照 "Scene" 下拉框所列出的数字确定字幕顺序
+部分简体字SA2并不支持，字符替换的事情可以直接交给我 (战术去世)
